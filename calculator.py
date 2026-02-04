@@ -17,7 +17,7 @@ def average(numbers: List[float]) -> float:
         total += n
     return total / len(numbers)
 
-
+#random comment
 def normalize(numbers: List[float]) -> List[float]:
     """
     Normalize a list of numbers.
